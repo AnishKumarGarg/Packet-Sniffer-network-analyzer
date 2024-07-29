@@ -15,5 +15,7 @@ scapy
 tkinter
 ### Steps
 Clone the repository
-> git clone https://github.com/AnishKumarGarg/Packet-Sniffer-network-analyzer.git
-> cd Packet-Sniffer-network-analyzer
+```
+git clone https://github.com/AnishKumarGarg/Packet-Sniffer-network-analyzer.git
+cd Packet-Sniffer-network-analyzer
+```
