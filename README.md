@@ -9,6 +9,7 @@ Command-Line Interface: For users who prefer the terminal.
 ARP Request Handling: Analyzes ARP requests within the network.
 Graphical User Interface: Easy-to-use GUI built with Tkinter.
 ```
+Captures TCP, UDP, ICMP, DHCP, ARP or HTTP packets on the network, and provides their source IP, Destination IP, the hardware addresses of the devices with those IP, and the detailed information of the captured packets
 ## Installation
 ### Prerequisites
 ```
