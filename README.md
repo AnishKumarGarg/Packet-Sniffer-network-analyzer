@@ -14,8 +14,21 @@ dpkt
 scapy
 tkinter
 ### Steps
-Clone the repository
+1. Clone the repository
 ```
 git clone https://github.com/AnishKumarGarg/Packet-Sniffer-network-analyzer.git
 cd Packet-Sniffer-network-analyzer
 ```
+2. Install Dependencies
+```
+pip install dpkt scapy tk
+```
+2. Run the Packet Analyzer
+Command-Line Interface
+> python PacketAnalyzer.py
+
+Graphical User Interface
+> python PacketAnalyzer_GUI.py
+
+### Contributing
+Feel free to fork this repository and contribute by submitting a pull request. For major changes, please open an issue first to discuss what you would like to change.
