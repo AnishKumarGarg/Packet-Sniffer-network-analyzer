@@ -9,10 +9,12 @@ ARP Request Handling: Analyzes ARP requests within the network.
 Graphical User Interface: Easy-to-use GUI built with Tkinter.
 ## Installation
 ### Prerequisites
+```
 Python 3.x
 dpkt
 scapy
 tkinter
+```
 ### Steps
 1. Clone the repository
 ```
